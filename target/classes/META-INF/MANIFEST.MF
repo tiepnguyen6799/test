@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootHoiNghi
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: RumIT
+Implementation-Vendor-Id: com.dtdm
+Build-Jdk: 1.8.0_112
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringBootHoiNghi
+Created-By: Maven Integration for Eclipse
+
